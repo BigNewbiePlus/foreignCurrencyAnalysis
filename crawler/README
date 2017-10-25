@@ -1,0 +1,38 @@
+使用说明:
+
+安装docker
+=========================
+1: 安装docker，参照官网 https://www.docker.com/ 或 菜鸟教程 http://www.runoob.com/docker/docker-tutorial.html
+
+创建镜像 
+=======================
+1: 进入crawler目录, 输入命令: docker build -t bignewbie/crawler .
+   注: bignewbie/crawler指定用户名/项目名，使用者可自行修改
+
+后台运行容器
+====================
+1: nohup docker run --rm -t bignewbie/crawler &
+说明：数据直接插入数据库中
+
+需要修改的文件说明
+=====================
+1:root : 定时任务设置文件，当前设置为每天14:50执行一次
+2:crawler.sh: 爬虫启动脚本。
+   1>测试使用: python craw_idxdata_weekly.py -urlfile test_idx_urls.txt -savedir ./
+   2>部署使用  python craw_idxdata_weekly.py -urlfile idx_urls.txt -savedir ./idxdata/
+      其中：
+          urlfile: 配置文件，每行格式为：保存的文件名 经济指标url， 可手动添加需要爬取的数据url
+          savedir: 保存目录
+3:Dockerfile: 因需要网易内部搭建的数据库环境包bigdata/mining-api/simple-io-py, 需要填写数据库用户名和密码(第74行)
+4:craw_idxdata_weekly.py: 修改代码设置登陆hive数据库用户名。在client = IO.newHive('bjcaoxianteng')语句中设置，现阶段用户名bjcaoxianteng,
+                          无需密码。
+测试过程
+======================
+1:修改root文件中定时时间进行调试(测试设置时间间隔1分钟，部署可设为1天或一周)
+2:修改文件crawler.sh中-urlfile指定的测试用例文件，先使用test_idx_urls.txt测试，若通过，再使用idx_urls.txt部署使用
+3:每次修改参数都要重新使用docker进行build和run(docker存在cache机制，再次创建很快)
+4:爬取的数据表格存储在https://datahue.ms.netease.com/ 下ep_quant数据库内
+
+联系
+=====================
+任何不懂的地方，欢迎提问,也可邮箱dhfang812@163.com

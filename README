@@ -1,0 +1,13 @@
+# 各子目录介绍
+
+# 爬虫文件，包含经济指标和外汇数据爬虫
+crawdata
+
+#crawler需要部署服务器端，能weekly爬取
+crawler
+
+# 各经济指标对外汇影响
+idx2CurrInfluence
+# 数据，包含爬取的和内部存在的
+datas
+

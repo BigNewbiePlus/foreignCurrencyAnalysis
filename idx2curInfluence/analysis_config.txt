@@ -1,0 +1,13 @@
+澳大利亚-中国 澳元-audusd
+英国 英镑-gbpusd
+德国-法国-欧元区 欧元-eurusd
+加拿大 加元-usdcad
+新西兰 纽元-nzdusd
+日本 日元-usdjpy
+
+美国 澳元-audusd
+美国 英镑-gbpusd
+美国 欧元-eurusd
+美国 加元-usdcad
+美国 纽元-nzdusd
+美国 日元-usdjpy

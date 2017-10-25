@@ -1,0 +1,269 @@
+澳大利亚商品与服务贸易（亿澳元）  https://cn.investing.com/economic-calendar/trade-balance-291
+中国官方制造业pmi                 https://cn.investing.com/economic-calendar/chinese-manufacturing-pmi-594
+中国官方非制造业pmi               https://cn.investing.com/economic-calendar/chinese-non-manufacturing-pmi-831 
+中国财新制造业pmi                 https://cn.investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753
+中国财新服务业pmi                 https://cn.investing.com/economic-calendar/chinese-caixin-services-pmi-596
+中国进口同比（按美元）            https://cn.investing.com/economic-calendar/chinese-imports-867
+中国出口同比（按美元）            https://cn.investing.com/economic-calendar/chinese-exports-595
+中国贸易帐（亿美元）              https://cn.investing.com/economic-calendar/chinese-trade-balance-466
+中国cpi同比                       https://cn.investing.com/economic-calendar/chinese-cpi-459
+中国ppi同比                       https://cn.investing.com/economic-calendar/chinese-ppi-464
+
+澳大利亚道明证券通胀指数环比              https://cn.investing.com/economic-calendar/mi-inflation-gauge-345
+澳大利亚私营企业贷款（月环比）    https://cn.investing.com/economic-calendar/private-sector-credit-321
+澳大利亚营建许可（月环比）        https://cn.investing.com/economic-calendar/building-approvals-22
+澳大利亚工业集团(AIG)服务业表现指数  https://cn.investing.com/economic-calendar/aig-services-index-347
+澳大利亚工业集团(AIG)建筑业表现指数  https://cn.investing.com/economic-calendar/aig-construction-index-349
+澳大利亚工业集团(AIG)制造业指数      https://cn.investing.com/economic-calendar/aig-manufacturing-index-203
+澳大利亚零售销售环比                 https://cn.investing.com/economic-calendar/retail-sales-262
+澳大利亚澳新银行(ANZ)总招聘广告(月环比)     https://cn.investing.com/economic-calendar/anz-job-advertisements-385
+
+澳大利亚就业人口变化       https://cn.investing.com/economic-calendar/employment-change-94
+澳大利亚失业率             https://cn.investing.com/economic-calendar/unemployment-rate-302
+澳大利亚全职就业人口变动   https://cn.investing.com/economic-calendar/full-employment-change-1052   
+澳大利亚就业参与率         https://cn.investing.com/economic-calendar/participation-rate-1051
+
+澳大利亚居民消费价格指数（CPI）同比 https://cn.investing.com/economic-calendar/cpi-1011
+澳大利亚国内生产总值（GDP）同比      https://cn.investing.com/economic-calendar/gdp-1013
+ 
+澳大利亚出口额环比  https://cn.investing.com/economic-calendar/exports-1055
+澳大利亚进口额环比  https://cn.investing.com/economic-calendar/imports-1056
+
+日本工业产出环比初值  https://cn.investing.com/economic-calendar/industrial-production-159
+日本新屋开工同比      https://cn.investing.com/economic-calendar/housing-starts-152
+
+
+日本零售销售同比  https://cn.investing.com/economic-calendar/retail-sales-261
+
+日本家庭消费信心指数  https://cn.investing.com/economic-calendar/household-confidence-148
+
+日本制造业pmi  https://cn.investing.com/economic-calendar/manufacturing-pmi-202
+
+
+日本劳工现金收入同比  https://cn.investing.com/economic-calendar/average-cash-earnings-6
+
+日本领先指标初值  https://cn.investing.com/economic-calendar/leading-index-191
+日本同步指标月环比初值   https://cn.investing.com/economic-calendar/coincident-indicator-1441
+
+
+日本全国cpi同比        https://cn.investing.com/economic-calendar/national-cpi-992
+日本全国核心cpi同比    https://cn.investing.com/economic-calendar/national-core-cpi-344
+日本全国核心-核心cpi同比
+日本东京cpi同比        https://cn.investing.com/economic-calendar/tokyo-cpi-993
+日本东京核心cpi同比
+日本东京核心-核心cpi同比
+
+日本失业率      https://cn.investing.com/economic-calendar/unemployment-rate-298
+日本求才求职比   https://cn.investing.com/economic-calendar/jobs-applications-ratio-1001
+日本所有家庭支出同比   https://cn.investing.com/economic-calendar/household-spending-361 
+
+API原油库存（万桶）  https://cn.investing.com/economic-calendar/api-weekly-crude-stock-656
+API汽油库存（万桶）  https://cn.investing.com/economic-calendar/api-weekly-gasoline-stock-657
+API库欣地区原油库存（万桶） https://cn.investing.com/economic-calendar/api-weekly-cushing-oil-inventories-1656
+EIA原油库存（万桶）  https://cn.investing.com/economic-calendar/eia-crude-oil-inventories-75
+EIA汽油库存（万桶）  https://cn.investing.com/economic-calendar/gasoline-inventories-485
+EIA库欣地区原油库存（万桶） https://cn.investing.com/economic-calendar/eia-weekly-cushing-oil-inventories-1657
+
+德国零售销售环比    https://cn.investing.com/economic-calendar/german-retail-sales-138
+德国零售销售同比    https://cn.investing.com/economic-calendar/german-retail-sales-740
+德国失业人数变动    https://cn.investing.com/economic-calendar/german-unemployment-change-332 
+德国失业率          https://cn.investing.com/economic-calendar/german-unemployment-rate-142
+德国季调后工厂订单环比  https://cn.investing.com/economic-calendar/german-factory-orders-130   
+德国经工作日调整后工厂订单同比
+德国工业产出环比   https://cn.investing.com/economic-calendar/german-industrial-production-135 
+德国工业产出同比   
+德国季调后出口环比  https://cn.investing.com/economic-calendar/german-exports-1368
+德国季调后进口环比  
+德国季调后GDP季环比初值    https://cn.investing.com/economic-calendar/german-gdp-131
+德国工作日调整后GDP同比初值
+德国ZEW经济现况指数  https://cn.investing.com/economic-calendar/german-zew-current-conditions-1036      
+德国ZEW经济景气指数  https://cn.investing.com/economic-calendar/german-zew-economic-sentiment-144
+德国制造业pmi初值    https://cn.investing.com/economic-calendar/german-manufacturing-pmi-136
+德国服务业pmi初值    https://cn.investing.com/economic-calendar/german-services-pmi-140   
+德国综合pmi初值      https://cn.investing.com/economic-calendar/german-composite-pmi-1469
+德国cpi环比初值      https://cn.investing.com/economic-calendar/german-cpi-128
+德国cpi同比初值      https://cn.investing.com/economic-calendar/german-cpi-737
+德国调和cpi环比初值  https://cn.investing.com/economic-calendar/german-hicp-1555
+德国调和cpi同比初值  https://cn.investing.com/economic-calendar/german-hicp-1556
+
+法国工业产出环比    https://cn.investing.com/economic-calendar/french-industrial-production-115  
+法国工业产出同比    
+法国制造业pmi初值   https://cn.investing.com/economic-calendar/french-manufacturing-pmi-340
+法国服务业pmi初值   https://cn.investing.com/economic-calendar/french-services-pmi-341 
+法国综合pmi初值     
+法国GDP季环比初值   https://cn.investing.com/economic-calendar/french-gdp-113
+法国GDP季同比初值
+法国cpi环比初值     https://cn.investing.com/economic-calendar/french-cpi-112
+法国cpi同比初值     
+法国调和cpi环比初值  https://cn.investing.com/economic-calendar/french-hicp-940
+法国调和cpi同比初值  https://cn.investing.com/economic-calendar/french-hicp-941
+
+
+欧元区失业率           https://cn.investing.com/economic-calendar/unemployment-rate-299
+欧元区cpi同比初值      https://cn.investing.com/economic-calendar/cpi-68
+欧元区核心cpi同比初值  https://cn.investing.com/economic-calendar/core-cpi-317
+
+欧元区GDP季环比初值    https://cn.investing.com/economic-calendar/gdp-120
+欧元区GDP季同比初值    https://cn.investing.com/economic-calendar/gdp-925
+
+欧元区ppi环比   https://cn.investing.com/economic-calendar/ppi-237   
+欧元区ppi同比   https://cn.investing.com/economic-calendar/ppi-935
+
+欧元区零售销售环比    https://cn.investing.com/economic-calendar/retail-sales-255
+欧元区零售销售同比    https://cn.investing.com/economic-calendar/retail-sales-936
+欧元区sentix投资者信息指数   https://cn.investing.com/economic-calendar/sentix-investor-confidence-268  
+
+欧元区工业产出环比   https://cn.investing.com/economic-calendar/industrial-production-160 
+欧元区工业产出同比   https://cn.investing.com/economic-calendar/industrial-production-931
+
+欧元区季调贸易帐（亿欧元） https://cn.investing.com/economic-calendar/trade-balance-287
+欧元区cpi环比      https://cn.investing.com/economic-calendar/cpi-928       
+
+欧元区制造业pmi初值  https://cn.investing.com/economic-calendar/manufacturing-pmi-201
+欧元区服务业pmi初值  https://cn.investing.com/economic-calendar/services-pmi-272
+欧元区综合pmi初值    https://cn.investing.com/economic-calendar/markit-composite-pmi-1491
+
+欧元区消费者信心指数初值  https://cn.investing.com/economic-calendar/consumer-confidence-49
+
+加拿大工业品价格指数环比    
+加拿大原材料价格指数环比    https://cn.investing.com/economic-calendar/rmpi-266
+
+加拿大月贸易账户（10亿加元）  https://cn.investing.com/economic-calendar/trade-balance-285
+加拿大就业人数变动      https://cn.investing.com/economic-calendar/employment-change-95
+加拿大失业率            https://cn.investing.com/economic-calendar/unemployment-rate-301
+加拿大就业参与率        https://cn.investing.com/economic-calendar/participation-rate-670
+
+加拿大cpi环比      https://cn.investing.com/economic-calendar/cpi-70
+加拿大核心cpi环比  https://cn.investing.com/economic-calendar/core-cpi-57
+加拿大cpi同比      https://cn.investing.com/economic-calendar/cpi-741
+加拿大核心cpi同比  https://cn.investing.com/economic-calendar/core-cpi-1020
+
+
+
+加拿大零售销售环比   https://cn.investing.com/economic-calendar/retail-sales-260   
+加拿大核心零售销售环比  https://cn.investing.com/economic-calendar/core-retail-sales-65
+
+
+加拿大GDP月环比  https://cn.investing.com/economic-calendar/gdp-123
+
+加拿大GDP年化季环比  https://cn.investing.com/economic-calendar/gdp-annualized-1025
+
+美国芝加哥pmi    https://cn.investing.com/economic-calendar/chicago-pmi-38
+   
+美国ADP就业人数变动  https://cn.investing.com/economic-calendar/adp-nonfarm-employment-change-1
+美国ISM制造业指数    https://cn.investing.com/economic-calendar/ism-manufacturing-pmi-173
+美国ism非制造业指数  https://cn.investing.com/economic-calendar/ism-non-manufacturing-pmi-176
+美国工厂订单环比     https://cn.investing.com/economic-calendar/factory-orders-100
+
+美国JOLTS职位空缺    https://cn.investing.com/economic-calendar/jolts-job-openings-1057
+
+美国ppi环比         https://cn.investing.com/economic-calendar/ppi-238
+美国核心ppi环比     https://cn.investing.com/economic-calendar/core-ppi-62
+美国ppi同比         
+美国核心ppi同比     https://cn.investing.com/economic-calendar/core-ppi-735 
+
+美国进口价格指数环比   https://cn.investing.com/economic-calendar/import-price-index-153
+美国进口价格指数同比   
+
+美国新屋开工环比   https://cn.investing.com/economic-calendar/housing-starts-898
+
+美国工业产出环比   https://cn.investing.com/economic-calendar/industrial-production-161
+
+美国markit制造业pmi初值   https://cn.investing.com/economic-calendar/markit-composite-pmi-1492
+美国markit服务业pmi初值   https://cn.investing.com/economic-calendar/services-pmi-1062
+美国markit综合pmi初值     https://cn.investing.com/economic-calendar/markit-composite-pmi-1492
+
+美国新屋销售环比          https://cn.investing.com/economic-calendar/new-home-sales-896
+美国成屋签约销售指数环比  https://cn.investing.com/economic-calendar/pending-home-sales-232 
+
+美国耐用品订单环比初值    https://cn.investing.com/economic-calendar/durable-goods-orders-86
+美国扣除运输类耐用品订单环比初值   
+美国扣除飞机非国防资本耐用品订单环比初值  https://cn.investing.com/economic-calendar/goods-orders-non-defense-ex-air-1047
+
+美国谘商会消费者信心指数  https://cn.investing.com/economic-calendar/cb-consumer-confidence-48
+
+美国cpi环比    https://cn.investing.com/economic-calendar/cpi-69
+美国cpi同比    https://cn.investing.com/economic-calendar/cpi-733
+美国核心cpi环比  https://cn.investing.com/economic-calendar/core-cpi-56
+美国核心cpi同比  https://cn.investing.com/economic-calendar/core-cpi-736
+
+美国非农就业人数变动  https://cn.investing.com/economic-calendar/nonfarm-payrolls-227
+美国非农私营部门就业人数变动   https://cn.investing.com/economic-calendar/private-nonfarm-payrolls-528
+美国制造业就业人数变动     https://cn.investing.com/economic-calendar/manufacturing-payrolls-1531
+美国失业率   https://cn.investing.com/economic-calendar/unemployment-rate-300
+美国平均每小时工资环比   https://cn.investing.com/economic-calendar/average-hourly-earnings-8
+美国平均每小时工资同比   
+美国平均每周工作时间    https://cn.investing.com/economic-calendar/average-weekly-hours-379
+
+美国零售销售月环比     https://cn.investing.com/economic-calendar/retail-sales-256
+美国核心零售销售环比   https://cn.investing.com/economic-calendar/core-retail-sales-63 
+
+美国首次申请失业金人数   https://cn.investing.com/economic-calendar/initial-jobless-claims-294
+美国持续申请失业金人数   https://cn.investing.com/economic-calendar/continuing-jobless-claims-522
+
+美国个人收入环比      https://cn.investing.com/economic-calendar/personal-income-234
+美国实际个人收入环比   https://cn.investing.com/economic-calendar/real-earnings-890
+美国个人消费支出环比   
+美国实际个人消费支出环比   https://cn.investing.com/economic-calendar/real-personal-consumption-895 
+美国PCE物价指数环比        
+美国PCE物价指数同比       
+美国PCE核心物价指数环比    https://cn.investing.com/economic-calendar/core-pce-price-index-61
+美国PCE核心物价指数同比    https://cn.investing.com/economic-calendar/core-pce-price-index-905
+
+英国央行消费信贷（亿英镑）
+英国央行抵押贷款额（亿英镑）
+英国央行抵押贷款许可件数
+
+英国nationwide房价指数同比
+英国nationwide房价指数环比
+
+英国制造业pmi   https://cn.investing.com/economic-calendar/manufacturing-pmi-204
+英国建筑业pmi   https://cn.investing.com/economic-calendar/construction-pmi-44 
+英国服务业pmi   https://cn.investing.com/economic-calendar/services-pmi-274
+英国综合pmi     
+
+英国3个月halifax房价指数同比    https://cn.investing.com/economic-calendar/halifax-house-price-index-844 
+英国halifax房价指数环比         https://cn.investing.com/economic-calendar/halifax-house-price-index-145
+ 
+英国BRC同店销售同比    https://cn.investing.com/economic-calendar/brc-retail-sales-monitor-18   
+
+英国工业产出环比     https://cn.investing.com/economic-calendar/industrial-production-158
+英国工业产出同比     https://cn.investing.com/economic-calendar/industrial-production-732
+英国制造业产出环比   https://cn.investing.com/economic-calendar/manufacturing-production-205
+英国制造业产出同比   https://cn.investing.com/economic-calendar/manufacturing-production-845
+英国建筑业产出环比   https://cn.investing.com/economic-calendar/construction-output-1682  
+英国建筑业产出同比
+英国商品贸易账（10亿英镑） https://cn.investing.com/economic-calendar/trade-balance-284
+
+英国cpi环比      https://cn.investing.com/economic-calendar/cpi-727
+英国cpi同比      https://cn.investing.com/economic-calendar/cpi-67
+英国核心cpi同比  https://cn.investing.com/economic-calendar/core-cpi-55
+
+英国失业率       https://cn.investing.com/economic-calendar/unemployment-rate-297
+英国失业金申请人数变动     https://cn.investing.com/economic-calendar/claimant-count-change-39
+英国三个月包括红利的平均工资同比    https://cn.investing.com/economic-calendar/average-earnings-index-bonus-7
+
+英国核心零售销售环比   https://cn.investing.com/economic-calendar/core-retail-sales-856 
+英国核心零售销售同比   https://cn.investing.com/economic-calendar/core-retail-sales-857
+英国零售销售环比   https://cn.investing.com/economic-calendar/retail-sales-258
+英国零售销售同比   https://cn.investing.com/economic-calendar/retail-sales-731
+
+英国GDP季环比初值   https://cn.investing.com/economic-calendar/gdp-121 
+英国GDP同比初值    https://cn.investing.com/economic-calendar/gdp-728
+英国商业投资总额季环比初值  https://cn.investing.com/economic-calendar/business-investment-30  
+英国商业投资总额同比初值    https://cn.investing.com/economic-calendar/business-investment-1439 
+
+新西兰季度失业率     https://cn.investing.com/economic-calendar/unemployment-rate-295
+新西兰就业人口变化   https://cn.investing.com/economic-calendar/employment-change-93
+新西兰GDP季环比   https://cn.investing.com/economic-calendar/gdp-125
+新西兰cpi季环比   https://cn.investing.com/economic-calendar/cpi-72
+
+新西兰零售销售季环比   https://cn.investing.com/economic-calendar/retail-sales-257
+新西兰核心零售销售季环比   https://cn.investing.com/economic-calendar/core-retail-sales-64
+
+
+新西兰通胀预期（季环比） https://cn.investing.com/economic-calendar/inflation-expectations-342 
+
+新西兰贸易帐（M纽元）https://cn.investing.com/economic-calendar/trade-balance-290
+新西兰出口（10亿纽元）https://cn.investing.com/economic-calendar/exports-1065
+新西兰进口（10亿纽元）  https://cn.investing.com/economic-calendar/imports-1066

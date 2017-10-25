@@ -1,0 +1,2 @@
+40 15 * * *  /usr/src/app/crawler/crawler.sh cron>> /var/log/cron.log 2>&1
+
