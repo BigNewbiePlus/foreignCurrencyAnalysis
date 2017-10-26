@@ -1,0 +1,2 @@
+apikxkc API库欣地区原油库存（万桶） https://cn.investing.com/economic-calendar/api-weekly-cushing-oil-inventories-1656
+apiqykc API汽油库存（万桶） https://cn.investing.com/economic-calendar/api-weekly-gasoline-stock-657

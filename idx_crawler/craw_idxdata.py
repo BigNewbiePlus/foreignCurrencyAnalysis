@@ -8,6 +8,7 @@ import  time  #调入time函数
 import csv
 import os
 import re
+import time
 
 def click_unchanged(driver, min_num, key, url):
     unchanged_num = 0
@@ -42,15 +43,20 @@ def click_unchanged(driver, min_num, key, url):
         time.sleep(0.5)
 
     return []
-def get_allidxs(browseri, trs):
-    idxs = []    
-    for tr in trs:
-        timesp = tr.find_elements_by_class_name('left')
-        timesp = timesp[0].text+timesp[1].text
-        idx = tr.find_elements_by_class_name('noWrap')
-        real_idx = idx[0].find_element_by_tag_name('span').text
-        pred_idx = idx[1].text
-        idxs.append([timesp, real_idx, pred_idx])
+def get_allidxs(driver, trs):
+    idxs = []
+    js = """
+    var parent = arguments[0];
+    var timesp = parent.getElementsByClassName('left');
+    var date = timesp[0].innerText + timesp[1].innerText;
+    var idx = parent.getElementsByClassName('noWrap');
+    var real_idx = idx[0].innerText;
+    var pred_idx = idx[1].innerText;
+    return date+','+real_idx+','+pred_idx;
+    """
+    for tr in trs: 
+        result = driver.execute_script(js, tr)
+        idxs.append(result.split(','))
     return idxs
 
 def writelist2file(filepath, idxs):
@@ -89,9 +95,9 @@ def read_rawdatas(filepath):
     for line in fopen:
         line = line.replace('\n','')
         seg_list = line.split()
-        if len(seg_list)==2:
-            names.append(seg_list[0])
-            urls.append(seg_list[1])
+        if len(seg_list)==3:
+            names.append(seg_list[1])
+            urls.append(seg_list[2])
     fopen.close()
     return names, urls
 
@@ -99,9 +105,10 @@ def read_rawdatas(filepath):
 def craw_allidx(urlfile, savedir):
     #读取节点文件,filename, 最近读取日期
     filenames, urls = read_rawdatas(urlfile)
-    browser = webdriver.Chrome('./chromedriver')
+    browser = webdriver.Chrome()
     name_urls = zip(filenames, urls)
     for name_url in name_urls:
+        print('crawler')
         craw_idxdata(name_url[0], name_url[1], browser, savedir)
     print('craw over!')
     browser.quit()
