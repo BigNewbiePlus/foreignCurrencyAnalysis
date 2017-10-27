@@ -122,14 +122,19 @@ def click_unchanged(driver, min_num, key, url, recent_record):
     return []
 # 获取网页数据源，具体格式请看ppt
 def get_allidxs(browseri, trs):
-    idxs = []    
-    for tr in trs:
-        timesp = tr.find_elements_by_class_name('left')
-        timesp = timesp[0].text+timesp[1].text
-        idx = tr.find_elements_by_class_name('noWrap')
-        real_idx = idx[0].find_element_by_tag_name('span').text
-        pred_idx = idx[1].text
-        idxs.append([timesp, real_idx, pred_idx])
+    idxs = []
+    js = """
+    var parent = arguments[0];
+    var timesp = parent.getElementsByClassName('left');
+    var date = timesp[0].innerText + timesp[1].innerText;
+    var idx = parent.getElementsByClassName('noWrap');
+    var real_idx = idx[0].innerText;
+    var pred_idx = idx[1].innerText;
+    return date+','+real_idx+','+pred_idx;
+    """
+    for tr in trs: 
+        result = driver.execute_script(js, tr)
+        idxs.append(result.split(','))
     return idxs
 
 # 把数据结果保存道文件内，idxs是一个sample_num * 3矩阵， 每一行一个记录，分别为: 时间、今值、预测值
